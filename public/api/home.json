@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "data": {
+        "bannerList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543543442643269.jpg",
+                "linkUrl": ""
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543573013401899.jpg",
+                "linkUrl": ""
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543800084698824.jpg",
+                "linkUrl": ""
+            }
+        ],
+        "categoryList1": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            }
+        ],
+        "homeAdImgList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/22/1542866411681602.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/04/1543925956471460.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543544186675180.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "categoryList2": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐友vip"
+            }
+        ]
+    }
+}
