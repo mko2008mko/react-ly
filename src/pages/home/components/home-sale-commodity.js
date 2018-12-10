@@ -1,21 +1,8 @@
 import React from "react";
-import Swiper from "swiper/dist/js/swiper.js";
-import 'swiper/dist/css/swiper.min.css'
+import swiperHList from "../../../components/swiper-h-contain/swiper-h-hoc"; 
 
+@swiperHList
 class HomeSaleCommodity extends React.Component {
-
-    componentDidMount() {
-
-        setTimeout(() => {
-            let mySwiper = new Swiper('.swiper-container', {
-                slidesPerView: 'auto'
-                // spaceBetween: 20,
-            })
-        }, 20)
-
-
-
-    }
 
     render() {
 
@@ -37,16 +24,12 @@ class HomeSaleCommodity extends React.Component {
             )
         }
         return (
-
-            <div className="home-sale-commodity-wrapper">
-                <div className='swiper-container'>
-                    <ul className='swiper-wrapper'>
+  
+                    <ul className='home-sale-commodity-wrapper swiper-wrapper'>
                         {lilist}
 
                     </ul>
-                </div>
-
-            </div>
+               
         )
     }
 }

@@ -13,7 +13,7 @@ class TopNav extends React.Component {
 
     componentDidMount() {
         const wrapper = this.refs.wrapper;
-        console.log(wrapper)
+        // console.log(wrapper)
         let timeId;
         window.addEventListener('scroll', () => {
             if (timeId) {
@@ -24,7 +24,7 @@ class TopNav extends React.Component {
                 let btop = document.body.scrollTop || document.documentElement.scrollTop;
                 const titleTop = wrapper.offsetTop
 
-                console.log(btop, titleTop);
+                // console.log(btop, titleTop);
 
                 if (btop > titleTop) {
                     wrapper.className = "clearfix fix";
@@ -33,16 +33,6 @@ class TopNav extends React.Component {
                 }
             }, 8);
 
-            // let btop = document.body.scrollTop || document.documentElement.scrollTop;
-            // const titleTop = wrapper.offsetTop
-
-            // console.log(btop, titleTop);
-
-            // if (btop > titleTop) {
-            //     wrapper.className = "clearfix fix";
-            // } else {
-            //     wrapper.className = "clearfix";
-            // }
 
         }, false)
     }

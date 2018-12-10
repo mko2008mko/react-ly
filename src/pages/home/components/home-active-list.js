@@ -5,7 +5,7 @@ import HomeSaleCommodity from "./home-sale-commodity";
 class HomeActiveList extends React.Component {
     render() {
         const { data } = this.props;
-        console.log(data);
+        // console.log(data);
         return data.length ? (
             <div>
                 {data.map(item => (

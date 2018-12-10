@@ -43,7 +43,7 @@ class SaleTime extends React.Component {
         }
 
 
-        console.log(time);
+        // console.log(time);
 
         return (
             <div className="sale-keill-warpper">
