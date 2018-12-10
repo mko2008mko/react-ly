@@ -110,6 +110,250 @@
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
                 "title": "乐友vip"
             }
+        ],
+        "saleTime": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyouimage5.leyou.com.cn/images_newdb/c6/06/c60659a6e5af1145be42a49fdf9af64b_200_200.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "69.0",
+                "time": "1"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyouimage2.leyou.com.cn/images_newdb/9c/d1/9cd1ef9f731a01bbf190d9521cf2bae6_200_200.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "89.0",
+                "time": "2"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyouimage1.leyou.com.cn/images_newdb/96/27/9627e88292eaf61b86e818c4d562dbe8_200_200.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "129.0",
+                "time": "2"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyouimage5.leyou.com.cn/images_newdb/c6/06/c60659a6e5af1145be42a49fdf9af64b_200_200.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "69.0",
+                "time": "1"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyouimage2.leyou.com.cn/images_newdb/9c/d1/9cd1ef9f731a01bbf190d9521cf2bae6_200_200.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "89.0",
+                "time": "2"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyouimage1.leyou.com.cn/images_newdb/96/27/9627e88292eaf61b86e818c4d562dbe8_200_200.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "129.0",
+                "time": "2"
+            }
+        ],
+        "homeAdImgList2": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/27/1524821821635416.png",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "homeCenterMoreImgList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543810261313640.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543541062534752.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "homeCenterMoreImgList2": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/23/1542940154918221.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/29/1543485635377163.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543544044235032.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "homeAdImgList3": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/27/1524821885235220.png",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "homeCenterMoreImgList3": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/28/1543387244805189.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/28/1543387250608316.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/28/1543387255392702.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/28/1543387259936249.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "homeAdImgList4": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/27/1524821980310963.png",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "homeActiveList": [
+            {
+                "id": 1,
+                "adImg": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/05/1543989558448006.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ],
+                "adList": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/79/cc/79cc68a8e2ae7ad5f93cef0da48ed047_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "歌瑞家A类圣诞系列灰男夹裤",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 4,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 5,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 6,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "adImg": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544096965773312.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ],
+                "adList": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f2/9e/f29ee368c680d576e1bb64a39e5ac481_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "歌瑞家A类圣诞系列灰男夹裤",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f2/9e/f29ee368c680d576e1bb64a39e5ac481_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 4,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 5,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 6,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    }
+                ]
+            }
         ]
     }
 }

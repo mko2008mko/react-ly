@@ -5,7 +5,7 @@ import "./style.less";
 class Banner extends React.PureComponent {
     render() {
         const { data } = this.props;
-        console.log(data);
+        // console.log(data);
         return (
             <div>
                 <Carousel

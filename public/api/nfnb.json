@@ -1,0 +1,406 @@
+{
+    "success": true,
+    "data": {
+        "nfnbAdImgList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544088887356940.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544088903434126.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544088914841333.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544088945332668.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "nfnbCenterMoreImg": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089367162260.jpg",
+                "linkUrl": "https://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089370710247.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "nfnbAdImgList2": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089462334289.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "nfnbCenterMoreImgList": [
+            {
+                "id": 1,
+                "item": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089495592238.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089499567943.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "item": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/07/1544153168875778.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/07/1544153190426795.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "item": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089760474308.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089766687923.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ]
+            }
+        ],
+        "nfnbAdImgList3": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089731577602.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "nfnbCenterMoreImgList2": [
+            {
+                "id": 1,
+                "item": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089508962152.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089510662293.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089511122805.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "item": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089517988242.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089541166678.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089531714432.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "item": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089550892813.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089563213384.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544089564975767.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ]
+            }
+        ],
+        "categoryList1": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531816867640619.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "贝尔贝瑞"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531816905496714.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "贝贝羊"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531816961459351.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "幼蓓"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531817140173110.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "伊瑞丝"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531817186551028.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "英氏"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523414874209214.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "爱他美"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523414883933736.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "启赋"
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523414893674981.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "雅培"
+            },
+            {
+                "id": 9,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523415029220832.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "美素佳儿"
+            },
+            {
+                "id": 10,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523415034564142.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "雀巢"
+            },
+            {
+                "id": 11,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531816867640619.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "贝尔贝瑞"
+            },
+            {
+                "id": 12,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531816905496714.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "贝贝羊"
+            },
+            {
+                "id": 13,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531816961459351.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "幼蓓"
+            },
+            {
+                "id": 14,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531817140173110.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "伊瑞丝"
+            },
+            {
+                "id": 15,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/07/17/1531817186551028.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "英氏"
+            },
+            {
+                "id": 16,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523414874209214.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "爱他美"
+            },
+            {
+                "id": 17,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523414883933736.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "启赋"
+            },
+            {
+                "id": 18,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523414893674981.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "雅培"
+            },
+            {
+                "id": 19,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523415029220832.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "美素佳儿"
+            },
+            {
+                "id": 20,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/04/11/1523415034564142.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "雀巢"
+            }
+        ],
+        "nfnbActiveList": [
+            {
+                "id": 1,
+                "adImg": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/12/27/1514357467351012.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ],
+                "adList": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/ff/f4/fff49a8c575113e8c691d7ece3cef762_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "爱他美4段儿童配方奶粉800g桶",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/ad/34/ad34201dddf2d10392023664e39e9e3b_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "爱他美4段儿童配方奶粉800g桶",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/ad/34/ad34201dddf2d10392023664e39e9e3b_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "爱他美4段儿童配方奶粉800g桶",
+                        "pirce": "129.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 4,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 5,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 6,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "adImg": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/12/27/1514358542494684.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ],
+                "adList": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/8f/3a/8f3ae10c751e755c2b55848d258bcfbc_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "花王Merries日本原装进口纸尿裤NB90片(0-5kg)(宝宝店专供)",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f2/9e/f29ee368c680d576e1bb64a39e5ac481_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "花王Merries日本原装进口纸尿裤NB90片(0-5kg)(宝宝店专供)",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f2/9e/f29ee368c680d576e1bb64a39e5ac481_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 4,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 5,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 6,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    }
+                ]
+            }
+        ]
+    }
+}

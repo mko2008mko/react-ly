@@ -11,6 +11,42 @@ class TopNav extends React.Component {
 
     }
 
+    componentDidMount() {
+        const wrapper = this.refs.wrapper;
+        console.log(wrapper)
+        let timeId;
+        window.addEventListener('scroll', () => {
+            if (timeId) {
+                clearTimeout(timeId);
+            }
+
+            timeId = setTimeout(() => {
+                let btop = document.body.scrollTop || document.documentElement.scrollTop;
+                const titleTop = wrapper.offsetTop
+
+                console.log(btop, titleTop);
+
+                if (btop > titleTop) {
+                    wrapper.className = "clearfix fix";
+                } else {
+                    wrapper.className = "clearfix";
+                }
+            }, 8);
+
+            // let btop = document.body.scrollTop || document.documentElement.scrollTop;
+            // const titleTop = wrapper.offsetTop
+
+            // console.log(btop, titleTop);
+
+            // if (btop > titleTop) {
+            //     wrapper.className = "clearfix fix";
+            // } else {
+            //     wrapper.className = "clearfix";
+            // }
+
+        }, false)
+    }
+
     handlerTabClick = (tab, index) => {
         // console.log(tab, index);
         switch (index) {
@@ -54,7 +90,7 @@ class TopNav extends React.Component {
         ];
 
         return (
-            <nav >
+            <nav ref="wrapper" style={{ zIndex: 2 }}>
                 <Tabs tabs={tabs} renderTabBar={props => <Tabs.DefaultTabBar {...props} page={6} />}
                     tabBarUnderlineStyle={{ height: '0.05rem', backgroundColor: '#ffb000', border: 'none' }} tabBarActiveTextColor={'#ffb000'}
                     tabBarInactiveTextColor={'#000'} tabBarTextStyle={{ fontSize: '0.26rem' }}
