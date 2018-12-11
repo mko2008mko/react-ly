@@ -1,0 +1,330 @@
+{
+    "success": true,
+    "data": {
+        "bannerList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544097617994726.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544097550767797.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544097645363965.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            }
+        ],
+        "categoryImgList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399715379402.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+                
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399718157268.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+                
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399721991759.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+               
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399722898329.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+               
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399767571438.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+               
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399768608922.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+               
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399770558674.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+               
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541399773397454.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck"
+              
+            }
+        ],
+        "categoryList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400294345294.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "嘉宝"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400299126655.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐健儿"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400435558018.png",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "亨氏"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400318784380.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "英氏"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400455408286.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "方广"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400447542242.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "贝比玛玛"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400458721709.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "纽曼思"
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/05/1541400461601643.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "益力健"
+            }
+        ],
+        "spRCommodityList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/09/10/0910f78ebeeb41e513e06be68a455eab_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "怡达单支装山楂球22g袋",
+                "pirce": "69.0"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f7/03/f703f4be93906d2117b1dcec09b2d113_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐健儿GreatFood小鱼机能饼干（高钙南瓜味）",
+                "pirce": "89.0"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/4e/ff/4efffd193c17094c0467291ddecf18fe_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "129.0"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/78/4e/784e8d479ea5574b2ba88580b4e34b33_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "69.0"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/d9/69/d9699f97d0d67ef71672ce75784bf369_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "89.0"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/d9/69/d9699f97d0d67ef71672ce75784bf369_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "129.0"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/7f/c1/7fc1008793f6a16c56a92dedd307c8c4_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "69.0"
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/7f/c1/7fc1008793f6a16c56a92dedd307c8c4_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "69.0"
+            },
+            {
+                "id": 9,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/09/10/0910f78ebeeb41e513e06be68a455eab_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "怡达单支装山楂球22g袋",
+                "pirce": "69.0"
+            },
+            {
+                "id": 10,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f7/03/f703f4be93906d2117b1dcec09b2d113_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "乐健儿GreatFood小鱼机能饼干（高钙南瓜味）",
+                "pirce": "89.0"
+            },
+            {
+                "id": 11,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/4e/ff/4efffd193c17094c0467291ddecf18fe_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "129.0"
+            },
+            {
+                "id": 12,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/78/4e/784e8d479ea5574b2ba88580b4e34b33_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "69.0"
+            }
+        ],
+        "spActiveList": [
+            {
+                "id": 1,
+                "adImg": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/12/27/1514357467351012.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ],
+                "adList": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/ff/f4/fff49a8c575113e8c691d7ece3cef762_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "爱他美4段儿童配方奶粉800g桶",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/ad/34/ad34201dddf2d10392023664e39e9e3b_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "爱他美4段儿童配方奶粉800g桶",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/ad/34/ad34201dddf2d10392023664e39e9e3b_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "爱他美4段儿童配方奶粉800g桶",
+                        "pirce": "129.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 4,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 5,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 6,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "adImg": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/12/27/1514358542494684.jpg",
+                        "linkUrl": "https://www.baidu.com"
+                    }
+                ],
+                "adList": [
+                    {
+                        "id": 1,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/8f/3a/8f3ae10c751e755c2b55848d258bcfbc_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "花王Merries日本原装进口纸尿裤NB90片(0-5kg)(宝宝店专供)",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 2,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f2/9e/f29ee368c680d576e1bb64a39e5ac481_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "花王Merries日本原装进口纸尿裤NB90片(0-5kg)(宝宝店专供)",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 3,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f2/9e/f29ee368c680d576e1bb64a39e5ac481_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 4,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "69.0",
+                        "time": "1"
+                    },
+                    {
+                        "id": 5,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "89.0",
+                        "time": "2"
+                    },
+                    {
+                        "id": 6,
+                        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+                        "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                        "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                        "pirce": "129.0",
+                        "time": "2"
+                    }
+                ]
+            }
+        ]
+    }
+}

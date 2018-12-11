@@ -3,7 +3,7 @@ import { CommodityItem } from "../../../components/commodity-item";
 
 export const RcommodityList = (props) => {
     const { data } = props;
-    console.log(data);
+    // console.log(data);
     return data.length ? (
         <ul className="commodity-r-list-wrapper">
              {

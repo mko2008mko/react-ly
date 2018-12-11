@@ -3,5 +3,6 @@ import { homeReducer } from "./pages/home/store/home.redux";
 import { nfnbReducer } from "./pages/nfnb/store/nfnb.redux";
 import { qqgReducer } from "./pages/qqg/store/qqg.redux";
 import { tzReducer } from "./pages/tz/store/tz.redux";
+import { spReducer } from "./pages/sp/store/sp.redux";
 
-export default combineReducers({ homeReducer, nfnbReducer, qqgReducer,tzReducer }); 
+export default combineReducers({ homeReducer, nfnbReducer, qqgReducer, tzReducer, spReducer }); 
