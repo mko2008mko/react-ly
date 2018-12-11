@@ -1,0 +1,186 @@
+{
+    "success": true,
+    "data": {
+        "bannerList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/22/1542877450862090.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/29/1543466660553144.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/06/1544075898766400.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            }
+        ],
+        "tzAdImgList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870876550519.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "categoryList1": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870592621106.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "上装"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870610884586.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "裤装"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534234801196803.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "外套"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534234807721639.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "套装"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870698835069.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "裙装"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870727983722.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "连体衣"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870745936529.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "童鞋"
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870759299518.jpg",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "童袜"
+            }
+        ],
+        "tzAdImgList2": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233744735892.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "tzAdImgList3": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/10/1533870953506186.jpg",
+                "linkUrl": "https://www.baidu.com"
+            }
+        ],
+        "tzRCommodityList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/7f/c1/7fc1008793f6a16c56a92dedd307c8c4_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "69.0"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/d9/69/d9699f97d0d67ef71672ce75784bf369_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "89.0"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/27/5c/275c7a2096eac656205323a8a697ca7b_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "129.0"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/d9/69/d9699f97d0d67ef71672ce75784bf369_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "69.0"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/d9/69/d9699f97d0d67ef71672ce75784bf369_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "89.0"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/d9/69/d9699f97d0d67ef71672ce75784bf369_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+                "pirce": "129.0"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/7f/c1/7fc1008793f6a16c56a92dedd307c8c4_360_360.JPG",
+                "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+                "title": "【全球购】日本花王Merries纸尿裤L54片*2包装保税区直发",
+                "pirce": "69.0"
+            }
+        ],
+        "tzgfList": [
+            {
+                "id": 1,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233756867578.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 2,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233759630058.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 3,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/24/1535091089871990.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 4,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/24/1535091094912584.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 5,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233781420589.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 6,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233784887415.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 7,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233791542782.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            },
+            {
+                "id": 8,
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/08/14/1534233793365170.jpg",
+                "linkUrl": "https://www.baidu.com/"
+            }
+        ]
+    }
+}
