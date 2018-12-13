@@ -5,32 +5,35 @@ import { Button, Toast } from 'antd-mobile'
 import { connect } from 'react-redux'
 import { getLogin } from './store/login.redux'
 import { Link } from 'react-router-dom'
+import LYFormGJ from '../../components/gaojieform';
+
 
 @connect(
   state => state.userReducer,
   { getLogin }
 )
+@LYFormGJ
 class Login extends React.Component {
   constructor(props) {
     super()
-    this.state = {
-      username: '',
-      pwd: '',
-      vcode: ''
-    }
+    // this.state = {
+    //   username: '',
+    //   pwd: '',
+    //   vcode: ''
+    // }
   }
 
-  handleChange = (k, v) => {
-    // console.log(k,v.target.value)
-    this.setState({ [k]: v.target.value })
-  }
+  // handleChange = (k, v) => {
+  //   // console.log(k,v.target.value)
+  //   this.setState({ [k]: v.target.value })
+  // }
 
   handleSubmit = () => {
-    if (!this.state.username) {
+    if (!this.props.state.username) {
       Toast.fail('请输入用户名', 1)
-    } else if (!this.state.pwd) {
+    } else if (!this.props.state.pwd) {
       Toast.fail('请输入密码', 1)
-    } else if (!this.state.vcode) {
+    } else if (!this.props.state.vcode) {
       Toast.fail('请输入验证码', 1)
     } else {
       this.props.getLogin(this.state)
@@ -46,13 +49,14 @@ class Login extends React.Component {
   
 
   render() {
+    const {handleChange} = this.props;
     return (
       <div className="login-wrapper">
         <AppTopBar title="登录" />
         <div className="login-form-wrapper">
-          <input type="text" placeholder="输入用户/手机号" onChange={this.handleChange.bind(this, 'username')} />
-          <input type="password" placeholder="输入密码" onChange={this.handleChange.bind(this, 'pwd')} />
-          <input type="text" placeholder="输入验证码" onChange={this.handleChange.bind(this, 'vcode')} />
+          <input type="text" placeholder="输入用户/手机号" onChange={handleChange.bind(this, 'username')} />
+          <input type="password" placeholder="输入密码" onChange={handleChange.bind(this, 'pwd')} />
+          <input type="text" placeholder="输入验证码" onChange={handleChange.bind(this, 'vcode')} />
           <Button onClick={this.handleSubmit}>提交</Button>
           <Link to={`/register`}>
             <div>

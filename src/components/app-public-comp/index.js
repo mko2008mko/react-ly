@@ -1,5 +1,6 @@
-import React from 'react'
-import './style.less'
+import React from 'react';
+import { Link } from 'react-router-dom';
+import './style.less';
 
 export const AppDownloadItem = () => {
   return (
@@ -12,5 +13,26 @@ export const AppDownloadItem = () => {
         <img src="http://leyouimage.leyou.com.cn/mleyou/m_zy/download.png" alt="" />
       </a>
     </div>
-  )
-}
+  );
+};
+
+export const TopLefNavPop = () => {
+  return (
+    <div className="tf-nav-pop-wrapper">
+      <ul>
+        <li>
+          <Link to={`/`}>
+            <span>首页</span>
+          </Link>
+        </li>
+        <li>
+          <span>购物车</span>
+        </li>
+        <li>
+          <span>我的乐友</span>
+        </li>
+      </ul>
+      <div className="dd" />
+    </div>
+  );
+};
