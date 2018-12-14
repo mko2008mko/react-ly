@@ -27,45 +27,45 @@
             },
             {
                 "id": 2,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659352383096.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "每日签到"
             },
             {
                 "id": 3,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659358707694.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "积分兑换"
             },
             {
                 "id": 4,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659363720544.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "身边门店"
             },
             {
                 "id": 5,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659407454639.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "亲子服务"
             },
             {
                 "id": 6,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659413865253.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "领券中心"
             },
             {
                 "id": 7,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659417455053.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "乐友亲选"
             },
             {
                 "id": 8,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/13/1544659420145929.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "乐试用"
             }
         ],
         "homeAdImgList": [
@@ -81,34 +81,34 @@
             },
             {
                 "id": 3,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543544186675180.jpg",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/14/1544748994715363.gif",
                 "linkUrl": "https://www.baidu.com"
             }
         ],
         "categoryList2": [
             {
                 "id": 1,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/08/22/1503390376241995.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "乐海淘"
             },
             {
                 "id": 2,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/08/22/1503390496674616.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "购物车"
             },
             {
                 "id": 3,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/08/22/1503390539109750.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "我的订单"
             },
             {
                 "id": 4,
-                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/12/03/1543830494336421.png",
+                "imgUrl": "http://leyoutest1.oss-cn-beijing.aliyuncs.com/2017/08/22/1503390562238890.png",
                 "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
-                "title": "乐友vip"
+                "title": "我的乐友"
             }
         ],
         "saleTime": [

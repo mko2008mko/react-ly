@@ -1,37 +1,38 @@
 import React from 'react';
 import { Carousel } from 'antd-mobile';
-import "./style.less";
+import { Link } from 'react-router-dom';
+import './style.less';
 
 class Banner extends React.PureComponent {
-    render() {
-        const { data } = this.props;
-        // console.log(data);
-        return (
-            <div>
-                <Carousel
-                    autoplay={true}
-                    infinite
-                // beforeChange={(from, to) => console.log(`slide from ${from} to ${to}`)}
-                // afterChange={index => console.log('slide to', index)}
-                >
+  render() {
+    const { data } = this.props;
+    // console.log(data);
+    return (
+      <div>
+        <Carousel
+          autoplay={true}
+          infinite
+          // beforeChange={(from, to) => console.log(`slide from ${from} to ${to}`)}
+          // afterChange={index => console.log('slide to', index)}
+        >
+          {data.length
+            ? data.map(item => (
+                <Link to={`/commodityDetail`} key={item.id}>
+                  <img
+                    src={item.imgUrl}
+                    alt=""
+                    style={{ width: '100%', verticalAlign: 'top' }}
+                    onLoad={() => {
+                      // fire window resize event to change height
+                      window.dispatchEvent(new Event('resize'));
+                      this.setState({ imgHeight: 'auto' });
+                    }}
+                  />
+                </Link>
+              ))
+            : null}
 
-                    {data.length ? data.map(item => (
-                        <img
-                            key={item.id}
-                            src={item.imgUrl}
-                            alt=""
-                            style={{ width: '100%', verticalAlign: 'top' }}
-                            onLoad={() => {
-                                // fire window resize event to change height
-                                window.dispatchEvent(new Event('resize'));
-                                this.setState({ imgHeight: 'auto' });
-                            }}
-                        />
-                    ))
-                        : null
-                    }
-
-                    {/* <img
+          {/* <img
                         src={`http://leyoutest1.oss-cn-beijing.aliyuncs.com/2018/11/30/1543573013401899.jpg`}
                         alt=""
                         style={{ width: '100%', verticalAlign: 'top' }}
@@ -62,13 +63,10 @@ class Banner extends React.PureComponent {
                             this.setState({ imgHeight: 'auto' });
                         }}
                     /> */}
-
-
-
-                </Carousel>
-            </div>
-        )
-    }
+        </Carousel>
+      </div>
+    );
+  }
 }
 
 export default Banner;

@@ -1,0 +1,192 @@
+{
+  "success": true,
+  "data": {
+    "username": "xhjsama",
+    "bannerList": [
+      {
+        "id": 1,
+        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/30/73/30734dfd3841d04da9724964031aa67d_750_750.JPG",
+        "linkUrl": ""
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f5/7c/f57ca8336605abe0b1d60167b84ec788_750_750.JPG",
+        "linkUrl": ""
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/f5/7c/f57ca8336605abe0b1d60167b84ec788_750_750.JPG",
+        "linkUrl": ""
+      }
+    ],
+    "cityList": [
+      {
+        "addrid": "110100",
+        "addrname": "北京市"
+      },
+      {
+        "addrid": "120100",
+        "addrname": "天津市"
+      },
+      {
+        "addrid": "130000",
+        "addrname": "河北省"
+      },
+      {
+        "addrid": "140000",
+        "addrname": "山西省"
+      },
+      {
+        "addrid": "150000",
+        "addrname": "内蒙古自治区"
+      },
+      {
+        "addrid": "210000",
+        "addrname": "辽宁省"
+      },
+      {
+        "addrid": "220000",
+        "addrname": "吉林省"
+      },
+      {
+        "addrid": "230000",
+        "addrname": "黑龙江省"
+      },
+      {
+        "addrid": "310100",
+        "addrname": "上海市"
+      },
+      {
+        "addrid": "320000",
+        "addrname": "江苏省"
+      },
+      {
+        "addrid": "330000",
+        "addrname": "浙江省"
+      },
+      {
+        "addrid": "340000",
+        "addrname": "安徽省"
+      },
+      {
+        "addrid": "350000",
+        "addrname": "福建省"
+      },
+      {
+        "addrid": "360000",
+        "addrname": "江西省"
+      },
+      {
+        "addrid": "370000",
+        "addrname": "山东省"
+      },
+      {
+        "addrid": "410000",
+        "addrname": "河南省"
+      },
+      {
+        "addrid": "420000",
+        "addrname": "湖北省"
+      },
+      {
+        "addrid": "430000",
+        "addrname": "湖南省"
+      },
+      {
+        "addrid": "440000",
+        "addrname": "广东省"
+      },
+      {
+        "addrid": "450000",
+        "addrname": "广西壮族自治区"
+      },
+      {
+        "addrid": "460000",
+        "addrname": "海南省"
+      },
+      {
+        "addrid": "500100",
+        "addrname": "重庆市"
+      },
+      {
+        "addrid": "510000",
+        "addrname": "四川省"
+      },
+      {
+        "addrid": "520000",
+        "addrname": "贵州省"
+      },
+      {
+        "addrid": "530000",
+        "addrname": "云南省"
+      },
+      {
+        "addrid": "540000",
+        "addrname": "西藏自治区"
+      },
+      {
+        "addrid": "610000",
+        "addrname": "陕西省"
+      },
+      {
+        "addrid": "620000",
+        "addrname": "甘肃省"
+      },
+      {
+        "addrid": "630000",
+        "addrname": "青海省"
+      },
+      {
+        "addrid": "640000",
+        "addrname": "宁夏回族自治区"
+      },
+      {
+        "addrid": "650000",
+        "addrname": "新疆维吾尔自治区"
+      },
+      {
+        "addrid": "710000",
+        "addrname": "台湾省"
+      },
+      {
+        "addrid": "810000",
+        "addrname": "香港特别行政区"
+      },
+      {
+        "addrid": "820000",
+        "addrname": "澳门特别行政区"
+      }
+    ],
+    "commodityDesc": "<p>保质期：18个月</p><p>净含量：800</p><p>适合人群：幼儿</p><p>商品编号：S860000701</p><p>包装类型：听装</p><p>单品重量：800g</p>",
+    "imgDescList": [
+      {
+        "id": 1,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload/20140822_single_all.jpg"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload_img/B2c/naifen/S86/S860000701_01.jpg"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload_img/B2c/naifen/S86/S860000701_02.jpg"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload_img/B2c/naifen/S86/S860000701_03.jpg"
+      },
+      {
+        "id": 5,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload_img/B2c/naifen/S86/S860000701_04.jpg"
+      },
+      {
+        "id": 6,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload_img/B2c/naifen/S86/S860000701_05.jpg"
+      },
+      {
+        "id": 7,
+        "imgUrl": "http://leyouimage.leyou.com.cn/upload_img/B2c/naifen/S86/S860000701_07.jpg"
+      }
+    ]
+  }
+}

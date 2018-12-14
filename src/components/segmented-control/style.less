@@ -1,0 +1,31 @@
+.sc-wrapper {
+  ul {
+    display: flex;
+    li {
+      flex: 1;
+      height: 30px;
+      line-height: 30px;
+      text-align: center;
+      border: 1px solid #f2622d;
+      color: #f2622d;
+    }
+    li:first-child {
+      border-radius: 5px 0px 0px 5px;
+    }
+    li:nth-of-type(2) {
+      border-left: none;
+      border-right: none;
+    }
+    li:last-child {
+      border-radius: 0 5px 5px 0;
+    }
+
+    .selected {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background-color: #f2622d;
+      color: #fff;
+    }
+  }
+}
