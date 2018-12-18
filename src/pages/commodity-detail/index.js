@@ -9,6 +9,7 @@ import CitySelect from '../../components/app-city-select';
 import { Button } from 'antd-mobile';
 import SegmentedControl from '../../components/segmented-control';
 import RouterMap from './router';
+import AppBotShopCar from '../../components/app-bot-shopcar'
 import './style.less';
 
 class CommodityDetail extends React.Component {
@@ -32,6 +33,7 @@ class CommodityDetail extends React.Component {
     return (
       <div>
         <AppTopBar title="爱他美三段幼儿配方奶粉" />
+        <AppBotShopCar/>
         {commodityDetailData ? (
           <div style={{ backgroundColor: '#f6f4f4' }}>
             <Banner data={commodityDetailData.bannerList} />
@@ -88,6 +90,7 @@ class CommodityDetail extends React.Component {
               />
               <SegmentedControl />
               <RouterMap />
+              <div className="cdetail-bot-place"></div>
             </div>
           </div>
         ) : (

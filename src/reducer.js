@@ -7,6 +7,7 @@ import { spReducer } from './pages/sp/store/sp.redux';
 import { ypReducer } from './pages/yp/store/yp.redux';
 import { userReducer } from './pages/login/store/login.redux';
 import { cdetailReducer } from './pages/commodity-detail/store/cdetail.redux';
+import { salecommodityReducer } from './pages/sale/store/salecommodity.redux';
 
 export default combineReducers({
   homeReducer,
@@ -16,5 +17,6 @@ export default combineReducers({
   spReducer,
   ypReducer,
   userReducer,
-  cdetailReducer
+  cdetailReducer,
+  salecommodityReducer
 });

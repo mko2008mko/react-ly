@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "saleList": [
+      {
+        "id": 1,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/df/40/df40e0f38373959d9b603891965c8339.JPG",
+        "title": "壹佰分冰球(小黄人)MN-5394",
+        "price": "299.00"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/e7/94/e7944ce7559b1e24d7d2b8e1c0031116.JPG",
+        "title": "【全球购】美国童年时光ChildLife钙镁锌液体钙474ml保税区直发",
+        "price": "299.00"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/5a/f8/5af87fbf344921d72f268a973b096865.JPG",
+        "title": "歌瑞家A类可爱精灵灰色女连帽开衫卫衣",
+        "price": "299.00"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/5a/f8/5af87fbf344921d72f268a973b096865.JPG",
+        "title": "歌瑞家A类可爱精灵灰色女连帽开衫卫衣",
+        "price": "299.00"
+      },
+      {
+        "id": 5,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/5a/f8/5af87fbf344921d72f268a973b096865.JPG",
+        "title": "歌瑞家A类可爱精灵灰色女连帽开衫卫衣",
+        "price": "299.00"
+      },
+      {
+        "id": 6,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/cd/af/cdaf2a28618102fe210aab20c708f092.JPG",
+        "title": "歌瑞家A类可爱精灵灰色女连帽开衫卫衣",
+        "price": "199.00"
+      },
+      {
+        "id": 7,
+        "imgUrl": "http://leyouimage2.leyou.com.cn/images_db/5a/f8/5af87fbf344921d72f268a973b096865.JPG",
+        "title": "歌瑞家A类可爱精灵灰色女连帽开衫卫衣",
+        "price": "99.00"
+      }
+    ]
+  }
+}
