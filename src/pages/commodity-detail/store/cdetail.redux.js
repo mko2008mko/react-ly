@@ -3,17 +3,28 @@ import axios from 'axios';
 const GET_DETAIL_DATA = 'GET_DETAIL_DATA';
 const GET_CITYDATA_2 = 'GET_CITYDATA_2';
 const SET_CITY = 'SET_CITY';
+const MODIFY_COUNT = 'MODIFY_COUNT';
 const initState = {
   commodityDetailData: null,
   cityList2: [],
   city1: '',
-  city2: ''
+  city2: '',
+  commodity: {
+    // size: 0,
+    // id: 0,
+    // imgUrl: '',
+    // linkUrl: '',
+    // title: '',
+    // pirce: '0.00'
+  }
 };
 
 export const cdetailReducer = (state = initState, action) => {
   switch (action.type) {
     case GET_DETAIL_DATA:
-      return { ...state, commodityDetailData: action.data };
+      return { ...state, commodityDetailData: action.data, commodity: { ...action.data.commodityDetail, size: 1 } };
+    case MODIFY_COUNT:
+      return { ...state, commodity: { ...state.commodity, size: action.data } };
     case GET_CITYDATA_2:
       return { ...state, cityList2: action.data };
     case SET_CITY:
@@ -47,7 +58,7 @@ export const getCDetailData = productID => {
 };
 
 export const setCity = (type, city) => {
-  console.log(type,city);
+  console.log(type, city);
   //0 1级城市 非0 2级城市
   if (type) {
     return {
@@ -114,5 +125,12 @@ export const getCityData2 = cityId => {
       ];
       dispatch(getCITY2Sucess(data));
     }, 2000);
+  };
+};
+
+export const modifyCount = count => {
+  return {
+    type: MODIFY_COUNT,
+    data: count
   };
 };

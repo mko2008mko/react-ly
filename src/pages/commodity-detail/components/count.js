@@ -4,7 +4,7 @@ class Count extends React.Component {
   constructor(props) {
     super();
     this.state = {
-      count: 0
+      count: 1
     };
   }
 

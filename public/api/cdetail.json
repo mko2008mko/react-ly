@@ -1,6 +1,13 @@
 {
   "success": true,
   "data": {
+    "commodityDetail": {
+      "id": 3,
+      "imgUrl": "http://leyouimage.leyou.com.cn/images_newdb/82/00/8200f01ceb0fc627b9ff5ff8e872f2b3_360_360.JPG",
+      "linkUrl": "http://app.leyou.com.cn/activity/vipCheck",
+      "title": "Peter RabbitA类比得兔粉色女长袖卫衣",
+      "pirce": "129.0"
+    },
     "username": "xhjsama",
     "bannerList": [
       {

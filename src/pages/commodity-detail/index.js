@@ -2,19 +2,20 @@ import React from 'react';
 import AppTopBar from '../../components/app-topbar';
 import Banner from '../../components/banner';
 import { connect } from 'react-redux';
-import { getCDetailData, setCity, getCityData2 } from './store/cdetail.redux';
+import { getCDetailData, setCity, getCityData2, modifyCount } from './store/cdetail.redux';
 import { List } from 'react-content-loader';
 import Count from './components/count';
 import CitySelect from '../../components/app-city-select';
 import { Button } from 'antd-mobile';
 import SegmentedControl from '../../components/segmented-control';
 import RouterMap from './router';
-import AppBotShopCar from '../../components/app-bot-shopcar'
+import AppBotShopCar from '../../components/app-bot-shopcar';
 import './style.less';
 
 class CommodityDetail extends React.Component {
   handleCountChange = count => {
-    // console.log('-------', count);
+    
+    this.props.modifyCount(count);
   };
 
   handelCityChange = (city, type) => {
@@ -28,12 +29,13 @@ class CommodityDetail extends React.Component {
   };
 
   render() {
-    const { commodityDetailData, cityList2, city1, city2 } = this.props;
+    const { commodityDetailData, cityList2, city1, city2,commodity } = this.props;
     // console.log(cityList2);
     return (
       <div>
         <AppTopBar title="爱他美三段幼儿配方奶粉" />
-        <AppBotShopCar/>
+      
+        <AppBotShopCar commodity={commodity ? commodity : null} />
         {commodityDetailData ? (
           <div style={{ backgroundColor: '#f6f4f4' }}>
             <Banner data={commodityDetailData.bannerList} />
@@ -90,7 +92,7 @@ class CommodityDetail extends React.Component {
               />
               <SegmentedControl />
               <RouterMap />
-              <div className="cdetail-bot-place"></div>
+              <div className="cdetail-bot-place" />
             </div>
           </div>
         ) : (
@@ -110,7 +112,8 @@ const mapStateToProps = state => {
     commodityDetailData: state.cdetailReducer.commodityDetailData,
     cityList2: state.cdetailReducer.cityList2,
     city1: state.cdetailReducer.city1,
-    city2: state.cdetailReducer.city2
+    city2: state.cdetailReducer.city2,
+    commodity:state.cdetailReducer.commodity
   };
 };
 
@@ -123,6 +126,9 @@ const mapDispatchToProps = dispatch => ({
   },
   getCityData2(cityId) {
     dispatch(getCityData2(cityId));
+  },
+  modifyCount(count) {
+    dispatch(modifyCount(count));
   }
 });
 
