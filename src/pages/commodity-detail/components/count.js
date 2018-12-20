@@ -1,10 +1,12 @@
 import React from 'react';
+import './style.less';
 
 class Count extends React.Component {
   constructor(props) {
     super();
+    const count = props.default;
     this.state = {
-      count: 1
+      count: count ? count : 1
     };
   }
 
@@ -26,11 +28,12 @@ class Count extends React.Component {
   render() {
     return (
       <div className="count-wrapper">
-        <span>数量：</span>
         <span className="count-btn" onClick={this.handleAddClick}>
           +
         </span>
-        <span style={{marginLeft:5,marginRight:5}} className="count-xinashi">{this.state.count}</span>
+        <span style={{ marginLeft: 5, marginRight: 5 }} className="count-xinashi">
+          {this.state.count}
+        </span>
         <span className="count-btn" onClick={this.handleMinClick}>
           -
         </span>

@@ -3,6 +3,7 @@ import { Button } from 'antd-mobile';
 import shopcarImg from '../../static/Scan.png';
 import { connect } from 'react-redux';
 import { addShopCar } from '../../pages/shop-car/store/shopcar.redux';
+import { Link } from 'react-router-dom';
 import './style.less';
 
 @connect(
@@ -20,13 +21,15 @@ class AppBotShopCar extends React.Component {
 
   render() {
     const { commodity, count } = this.props;
-    
+
     return (
       <div className="absc-wrapper">
         <div>
-          <img src={shopcarImg} alt="" />
-          <span>立即结算</span>
-          <em>{count}</em>
+          <Link to={`/shopCar`}>
+            <img src={shopcarImg} alt="" />
+            <span>立即结算</span>
+            <em>{count}</em>
+          </Link>
         </div>
         <Button onClick={this.handleAddClick.bind(this, commodity)}>加入购物车</Button>
       </div>

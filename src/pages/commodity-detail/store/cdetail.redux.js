@@ -22,7 +22,11 @@ const initState = {
 export const cdetailReducer = (state = initState, action) => {
   switch (action.type) {
     case GET_DETAIL_DATA:
-      return { ...state, commodityDetailData: action.data, commodity: { ...action.data.commodityDetail, size: 1 } };
+      return {
+        ...state,
+        commodityDetailData: action.data,
+        commodity: { ...action.data.commodityDetail, size: 1, isCheck: false }
+      };
     case MODIFY_COUNT:
       return { ...state, commodity: { ...state.commodity, size: action.data } };
     case GET_CITYDATA_2:
