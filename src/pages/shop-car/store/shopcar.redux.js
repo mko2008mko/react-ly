@@ -1,5 +1,4 @@
 const ADD_SHOPCAR = 'ADD_SHOPCAR';
-const MODIFY_COUNT = 'MODIFY_COUNT';
 const MODIFY_C_SIZE = 'MODIFY_C_SIZE';
 const CHANGE_CHECK = 'CHANGE_CHECK';
 const initState = {
@@ -26,8 +25,8 @@ export const shopcarReducer = (state = initState, action) => {
         ...state,
         ...commodityIsExist(state.scCommodityList, state.count, action.data)
       };
-    case MODIFY_COUNT:
-      return { ...state, count: action.data };
+    // case MODIFY_COUNT:
+    //   return { ...state, count: action.data };
     case CHANGE_CHECK:
       return {
         ...state,
@@ -73,20 +72,35 @@ const commodityIsExist = (commoditylist, count, addcommodity) => {
     // count++;
     return { scCommodityList: commoditylist, count: 1 };
   }
-  //   console.log(test(commoditylist, count, addcommodity));
-  for (let item of commoditylist) {
+  let flag = true;
+  commoditylist.map(item => {
     if (item.id === addcommodity.id) {
-      // console.log(addcommodity.size)
+      flag = false;
       item.size += addcommodity.size;
-      return { scCommodityList: commoditylist, count: count };
-    } else {
-      //   commoditylist.push({ ...{}, ...addcommodity });
-
-      commoditylist.push(addcommodity);
-      //   count++;
-      return { scCommodityList: commoditylist, count: count + 1 };
     }
+    return item;
+  });
+
+  if (flag) {
+    commoditylist.push({ ...addcommodity });
+    return { scCommodityList: commoditylist, count: count + 1 };
+  } else {
+    return { scCommodityList: commoditylist };
   }
+
+  // for (let item of commoditylist) {
+  //   if (item.id === addcommodity.id) {
+  //     // console.log(addcommodity.size)
+  //     item.size += addcommodity.size;
+  //     return { scCommodityList: commoditylist, count: count };
+  //   } else {
+  //     //   commoditylist.push({ ...{}, ...addcommodity });
+
+  //     commoditylist.push(addcommodity);
+  //     //   count++;
+  //     return { scCommodityList: commoditylist, count: count + 1 };
+  //   }
+  // }
 };
 
 export const addShopCar = commodity => {

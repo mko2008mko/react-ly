@@ -21,12 +21,13 @@ ReactDOM.render(
   <Provider store={store}>
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={App} />
+        
         <Route path="/login" component={Login} />
         <Route path="/register" component={Register} />
         <Route path="/commodityDetail" component={CommodityDetail} />
         <Route path="/saleDetail" component={SaleDetail} />
-        <Route pathc="/shopCar" component={ShopCar} />
+        <Route path="/shopCar" component={ShopCar} />
+        <Route path="/" component={App} />
         {/* <Route exact path="/commodityDetail/imgdesc" component={CommodityDetail} />
         <Route exact path="/commodityDetail/aftersale" component={CommodityDetail} /> */}
       </Switch>
